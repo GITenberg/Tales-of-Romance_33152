@@ -1,0 +1,46 @@
+_repo: Tales-of-Romance_33152
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Speed, Lancelot
+    birthdate: &id001 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+  - agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: *id001
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: archival
+  image_path: 33152-h/images/img-cover.jpg
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2010-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Tales'
+tableOfContents: The story of Robin Hood -- Wayland the smith -- Some adventures of
+  William Short Nose -- The sword Excalibur -- How Grettir the Strong became an outlaw
+  -- Death of Grettir the Strong.
+title: Tales of Romance
+url: http://www.gutenberg.org/ebooks/33152
