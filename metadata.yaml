@@ -3,14 +3,14 @@ _version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Speed, Lancelot
-    birthdate: &id001 1860
+    birthdate: 1860
     deathdate: 1931
     gutenberg_agent_id: '9847'
     url: http://www.gutenberg.org/2009/agents/9847
     wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
   - agent_name: Ford, H. J. (Henry Justice)
     alias: Ford, Henry Justice
-    birthdate: *id001
+    birthdate: 1860
     deathdate: 1941
     gutenberg_agent_id: '26630'
     url: http://www.gutenberg.org/2009/agents/26630
@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33152#Tales-of-Romance
 gutenberg_issued: '2010-07-14'
 gutenberg_type: Text
 identifiers:
