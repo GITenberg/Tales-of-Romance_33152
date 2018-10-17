@@ -41,6 +41,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Tales'
+- GITenberg
 tableOfContents: The story of Robin Hood -- Wayland the smith -- Some adventures of
   William Short Nose -- The sword Excalibur -- How Grettir the Strong became an outlaw
   -- Death of Grettir the Strong.
